@@ -1,0 +1,33 @@
+body {
+	background-color: #d1cfcf;
+}
+h2 {
+text-align: center;
+font-style: italic;
+color: #c4566c;
+}
+.content{
+	border: 1px inset #6e56c4;
+}
+.chapter__one {
+	font-weight: bold;
+}
+.main__text {
+	color: #5a56c4;
+}
+.note__one {
+	color: #c4c456;
+}
+.chapter__two {
+	color: #69c456;
+	text-decoration: underline;
+}
+.chapter__three {
+	color: #56c4bb;
+}
+.chapter__four {
+	color: #a0c456;
+}
+.chapter__five {
+	color: #c456c4;
+}
