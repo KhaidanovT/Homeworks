@@ -1,0 +1,26 @@
+* {
+	box-sizing: border-box;
+}
+.card{
+	display: flex;
+	text-align: right;
+	flex-direction: column;
+	margin: auto;
+	width: 1200px;
+	height: 670px;
+}
+h1{
+	padding-right: 185px;
+}
+p {
+	padding-right: 185px;
+}
+.price {
+	padding-right: 185px;
+}
+.button {
+	width: 250px;
+	height: 50px;
+	background-color: #ec744a;
+	color: #f6f6f6;
+}
