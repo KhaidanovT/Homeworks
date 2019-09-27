@@ -1,0 +1,69 @@
+body {
+	font-family: "Helvetica Neue";
+}
+.hero {
+	background-color: #f4f5f7;
+	padding-top: 70px;
+	padding-bottom: 190px;
+}
+.subtitle{
+	font-size: 20px;
+	font-weight: 400;
+	display: block;
+	margin-bottom: 14px;
+}
+.title {
+	font-size: 48px;
+	font-weight: 700;
+	margin-bottom: 26px;
+}
+.price-tag {
+	font-size: 20px;
+	font-weight: 400;
+}
+.price {
+	font-size: 48px;
+	font-weight: 400;
+	margin-bottom: 60px;
+}
+.row {
+	margin-top: 160px;
+}
+.col-4 {
+	min-height: 150px;
+	background-color: #32325f;
+	color: #ffffff;
+}
+.apllecation {
+	font-size: 24px;
+	font-weight: 700;
+	padding-top: 78px;
+	padding-bottom: 34px;
+}
+.information {
+	font-size: 16px;
+	font-weight: 700;
+	margin-bottom: 34px;
+}
+.book-text {
+	align-items: center;
+	margin-top: 40px;
+	font-size: 16px;
+	font-weight: 400;
+}
+.picture {
+	align-items: center;
+}
+.buttons {
+	margin-top: 30px;
+}
+.info_book {
+	margin-top: 50px;
+}
+.section {
+	padding-bottom: 100px;
+	padding-top: 100px;
+}
+.about-block {
+	margin-top: 100px;
+}
